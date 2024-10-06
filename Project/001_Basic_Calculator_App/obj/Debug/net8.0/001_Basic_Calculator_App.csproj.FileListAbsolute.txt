@@ -1,0 +1,15 @@
+D:\dev\Project\001_Basic_Calculator_App\bin\Debug\net8.0\001_Basic_Calculator_App.exe
+D:\dev\Project\001_Basic_Calculator_App\bin\Debug\net8.0\001_Basic_Calculator_App.deps.json
+D:\dev\Project\001_Basic_Calculator_App\bin\Debug\net8.0\001_Basic_Calculator_App.runtimeconfig.json
+D:\dev\Project\001_Basic_Calculator_App\bin\Debug\net8.0\001_Basic_Calculator_App.dll
+D:\dev\Project\001_Basic_Calculator_App\bin\Debug\net8.0\001_Basic_Calculator_App.pdb
+D:\dev\Project\001_Basic_Calculator_App\obj\Debug\net8.0\001_Basic_Calculator_App.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\Project\001_Basic_Calculator_App\obj\Debug\net8.0\001_Basic_Calculator_App.AssemblyInfoInputs.cache
+D:\dev\Project\001_Basic_Calculator_App\obj\Debug\net8.0\001_Basic_Calculator_App.AssemblyInfo.cs
+D:\dev\Project\001_Basic_Calculator_App\obj\Debug\net8.0\001_Basic_Calculator_App.csproj.CoreCompileInputs.cache
+D:\dev\Project\001_Basic_Calculator_App\obj\Debug\net8.0\001_Basic_Calculator_App.sourcelink.json
+D:\dev\Project\001_Basic_Calculator_App\obj\Debug\net8.0\001_Basic_Calculator_App.dll
+D:\dev\Project\001_Basic_Calculator_App\obj\Debug\net8.0\refint\001_Basic_Calculator_App.dll
+D:\dev\Project\001_Basic_Calculator_App\obj\Debug\net8.0\001_Basic_Calculator_App.pdb
+D:\dev\Project\001_Basic_Calculator_App\obj\Debug\net8.0\001_Basic_Calculator_App.genruntimeconfig.cache
+D:\dev\Project\001_Basic_Calculator_App\obj\Debug\net8.0\ref\001_Basic_Calculator_App.dll
